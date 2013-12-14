@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
     QDesktopWidget dw;
-    //Création
+    //Créationzea
     MainWindow f;
     f.show();
 
