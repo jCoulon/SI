@@ -13,6 +13,9 @@ MainWindow::MainWindow(QWidget *parent) :
 {
 
 
+
+
+
     ui->setupUi(this);
     fileList = new QFileSystemModel(this);
     fileList->setRootPath("/");
